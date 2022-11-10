@@ -1,3 +1,4 @@
+//A program for even odd number.
 #include<stdio.h>
 #include<conio.h>
 void main()
